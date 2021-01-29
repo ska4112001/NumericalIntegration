@@ -1,0 +1,13 @@
+C:\Users\samia\source\repos\NumericalIntegration\NumericalIntegration\bin\Debug\netcoreapp3.1\NumericalIntegration.exe
+C:\Users\samia\source\repos\NumericalIntegration\NumericalIntegration\bin\Debug\netcoreapp3.1\NumericalIntegration.deps.json
+C:\Users\samia\source\repos\NumericalIntegration\NumericalIntegration\bin\Debug\netcoreapp3.1\NumericalIntegration.runtimeconfig.json
+C:\Users\samia\source\repos\NumericalIntegration\NumericalIntegration\bin\Debug\netcoreapp3.1\NumericalIntegration.runtimeconfig.dev.json
+C:\Users\samia\source\repos\NumericalIntegration\NumericalIntegration\bin\Debug\netcoreapp3.1\NumericalIntegration.dll
+C:\Users\samia\source\repos\NumericalIntegration\NumericalIntegration\bin\Debug\netcoreapp3.1\NumericalIntegration.pdb
+C:\Users\samia\source\repos\NumericalIntegration\NumericalIntegration\obj\Debug\netcoreapp3.1\NumericalIntegration.csprojAssemblyReference.cache
+C:\Users\samia\source\repos\NumericalIntegration\NumericalIntegration\obj\Debug\netcoreapp3.1\NumericalIntegration.AssemblyInfoInputs.cache
+C:\Users\samia\source\repos\NumericalIntegration\NumericalIntegration\obj\Debug\netcoreapp3.1\NumericalIntegration.AssemblyInfo.cs
+C:\Users\samia\source\repos\NumericalIntegration\NumericalIntegration\obj\Debug\netcoreapp3.1\NumericalIntegration.csproj.CoreCompileInputs.cache
+C:\Users\samia\source\repos\NumericalIntegration\NumericalIntegration\obj\Debug\netcoreapp3.1\NumericalIntegration.dll
+C:\Users\samia\source\repos\NumericalIntegration\NumericalIntegration\obj\Debug\netcoreapp3.1\NumericalIntegration.pdb
+C:\Users\samia\source\repos\NumericalIntegration\NumericalIntegration\obj\Debug\netcoreapp3.1\NumericalIntegration.genruntimeconfig.cache
